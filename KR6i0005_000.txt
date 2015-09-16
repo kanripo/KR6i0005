@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說八部佛名經
+#+DATE: 2015-08-30 20:07:25.910379
+#+PROPERTY: JUAN 0
